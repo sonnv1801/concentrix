@@ -74,7 +74,6 @@ import AKhongCoY from "./videos/AKhongCoY.mp3";
 import KhongYeuDenTheDau from "./videos/KhongYeuDenTheDau.mp3";
 import NoNhau1Loi from "./videos/NoNhau1Loi.mp3";
 import EmLamKeDangThuongGoc from "./videos/EmLamKeDangThuongGoc.mp3";
-import List1 from "./videos/List1.mp3";
 
 export const audios = [
   {
