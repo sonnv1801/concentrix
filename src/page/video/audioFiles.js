@@ -214,10 +214,6 @@ export const audios = [
     url: MotNgayBuon,
   },
   {
-    name: "TUYỂN TẬP NHẠC TRẺ BALAD HOT TIKTOK 2023 - (NH)",
-    url: List1,
-  },
-  {
     name: "KHÔNG YÊU ĐẾN THẾ ĐÂU - (NH)",
     url: KhongYeuDenTheDau,
   },
