@@ -75,14 +75,8 @@ import KhongYeuDenTheDau from "./videos/KhongYeuDenTheDau.mp3";
 import NoNhau1Loi from "./videos/NoNhau1Loi.mp3";
 import EmLamKeDangThuongGoc from "./videos/EmLamKeDangThuongGoc.mp3";
 import List1 from "./videos/List1.mp3";
-import LaoTamKhoTu from "./videos/LaoTamKhoTu.mp3";
-import DiGiuaTroiRucRo from "./videos/DiGiuaTroiRucRo.mp3";
 
 export const audios = [
-  {
-    name: "Lao Tâm Khổ Tứ ",
-    url: LaoTamKhoTu,
-  },
   {
     name: "Chân Trời và Những Đám Mây",
     url: LamGiauVoiMa,
@@ -90,10 +84,6 @@ export const audios = [
   {
     name: "Sơn Thủy Trùng Mây",
     url: SonThuyTrungMay,
-  },
-  {
-    name: "Đi Giữa Trời Rực Rỡ",
-    url: DiGiuaTroiRucRo,
   },
   {
     name: "W-ID3107",
